@@ -13,9 +13,9 @@ This project aims to create an engaging and personalized learning environment fo
 
 ## Tech Stack
  
-**Flutter**: For the frontend development, ensuring a smooth and interactive user experience.
+**Flutter**: Ensure a smooth and interactive user experience for front-end development.
     
-**Firebase**: Provides robust backend services such as authentication, real-time database, and cloud storage.
+**Firebase**: Provides robust backend services such as authentication.
     
 **Spring Boot**: Powers the server-side application, enabling efficient and scalable backend processing.
 
